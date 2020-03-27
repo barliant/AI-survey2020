@@ -19,11 +19,11 @@ Hasil analisis dan data raw (anonymized) survei ini akan dipublikasikan secara t
 
 ## Hasil Sementara (28-03-2020 06:12)
 
-![](readme/images/par_28-03-20_06-12.png)
-![](readme/images/cat_28-03-20_06-12.png)
-![](readme/images/pub_28-03-20_06-12.png)
-![](readme/images/topic_28-03-20_06-12.png)
-![](readme/images/group_28-03-20_06-12.png)
+![](images/par_28-03-20_06-12.png)
+![](images/cat_28-03-20_06-12.png)
+![](images/pub_28-03-20_06-12.png)
+![](images/topic_28-03-20_06-12.png)
+![](images/group_28-03-20_06-12.png)
 
 
 ## Data Post-Processing & Web Render (TBA)
