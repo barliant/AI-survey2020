@@ -17,13 +17,13 @@ Hasil analisis dan data raw (anonymized) survei ini akan dipublikasikan secara t
 
 - [Data Survey](https://colab.research.google.com/github/eueung/AI-survey2020/blob/master/survey-ai-quickview.ipynb)
 
-## Hasil Sementara (28-03-2020 17:13)
+## Hasil Sementara (29-03-2020 05:46)
 
-![](images/pub_28-03-20_17-13.png)
-![](images/topic_28-03-20_17-13.png)
-![](images/par_28-03-20_17-13.png)
-![](images/cat_28-03-20_17-13.png)
-![](images/group_28-03-20_17-13.png)
+![](images/pub_29-03-20_05-46.png)
+![](images/topic_29-03-20_05-46.png)
+![](images/par_29-03-20_05-46.png)
+![](images/cat_29-03-20_05-46.png)
+![](images/group_29-03-20_05-46.png)
 
 
 ## Data Post-Processing & Web Render (TBA)
